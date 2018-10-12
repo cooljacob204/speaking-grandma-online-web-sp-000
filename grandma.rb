@@ -13,5 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(say)
-  
+  if()
+  elsif (say.upper == say)
+    puts "NO, NOT SINCE 1938!"
+  end
 end
